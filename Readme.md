@@ -2,6 +2,8 @@
 
 ![Alt text](graphical-abstract.png)
 
+## Overview
+Sketch2CodeX is technology-agnostic framework to transform UI sketch/wireframe to any front-end code framework/language by implementing plugin-architecture and intermediate grid-based layout DSL. This is my Master Thesis in Computer Science of Universitas Gadjah Mada. You can find the thesis script here: https://etd.repository.ugm.ac.id/penelitian/detail/265403 
 
 ## Directory Structure
 - *object-detector* contains all code and evaluation result for object detection.
