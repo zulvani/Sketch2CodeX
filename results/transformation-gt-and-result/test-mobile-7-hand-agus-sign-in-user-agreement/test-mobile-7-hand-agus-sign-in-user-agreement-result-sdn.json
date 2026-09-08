@@ -1,0 +1,244 @@
+{
+  "uiWidth": 396,
+  "uiHeight": 850,
+  "gridTemplateColumnWidth": 33,
+  "rows": [
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "a6b74cae1b936f0e6df96b82d930620c80128a6f8568ac87b8969bb464c462fe",
+                "originalPosition": [
+                  66,
+                  43,
+                  328,
+                  104
+                ],
+                "width": 262,
+                "height": 61,
+                "objClass": "alert"
+              }
+            ]
+          ],
+          "originalWidth": 262,
+          "originalHeight": 61,
+          "leftEdge": 66,
+          "topEdge": 43,
+          "columnSpan": 8,
+          "columnOffset": 2,
+          "staticOffset": 0,
+          "columnOffsetSum": 2
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "4f2a2b302e4e8f72cf6aa8fb3903259bf473aeb77c7674677bf023f59339ba25",
+                "originalPosition": [
+                  68,
+                  137,
+                  197,
+                  161
+                ],
+                "width": 129,
+                "height": 24,
+                "objClass": "label"
+              }
+            ]
+          ],
+          "originalWidth": 129,
+          "originalHeight": 24,
+          "leftEdge": 68,
+          "topEdge": 137,
+          "columnSpan": 4,
+          "columnOffset": 2,
+          "staticOffset": 0,
+          "columnOffsetSum": 2
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "854d68800730ad45e51fa13a8cdf140c7d4265420835cc1363def169c50b24a0",
+                "originalPosition": [
+                  68,
+                  201,
+                  327,
+                  243
+                ],
+                "width": 259,
+                "height": 42,
+                "objClass": "input-free-text"
+              }
+            ]
+          ],
+          "originalWidth": 259,
+          "originalHeight": 42,
+          "leftEdge": 68,
+          "topEdge": 201,
+          "columnSpan": 8,
+          "columnOffset": 2,
+          "staticOffset": 0,
+          "columnOffsetSum": 2
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "ccc196c59b90c665c6c582b6a1b7a055be39059be11b10b0901e4f1f039a044a",
+                "originalPosition": [
+                  68,
+                  250,
+                  327,
+                  351
+                ],
+                "width": 259,
+                "height": 101,
+                "objClass": "input-password"
+              }
+            ]
+          ],
+          "originalWidth": 259,
+          "originalHeight": 101,
+          "leftEdge": 68,
+          "topEdge": 250,
+          "columnSpan": 8,
+          "columnOffset": 2,
+          "staticOffset": 0,
+          "columnOffsetSum": 2
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "659cf406fe2f236f97e409e0da5d96e9c5d9cce49c077c3da5ca0fbc4d6477da",
+                "originalPosition": [
+                  134,
+                  386,
+                  263,
+                  430
+                ],
+                "width": 129,
+                "height": 44,
+                "objClass": "common-button"
+              }
+            ]
+          ],
+          "originalWidth": 129,
+          "originalHeight": 44,
+          "leftEdge": 134,
+          "topEdge": 386,
+          "columnSpan": 4,
+          "columnOffset": 4,
+          "staticOffset": 0,
+          "columnOffsetSum": 4
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "1dde95194bfa1fc6612bfd69309f76bdb17e70b12a5ac24baeb19ef85cd219ac",
+                "originalPosition": [
+                  74,
+                  472,
+                  122,
+                  511
+                ],
+                "width": 48,
+                "height": 39,
+                "objClass": "checkbox"
+              }
+            ]
+          ],
+          "originalWidth": 48,
+          "originalHeight": 39,
+          "leftEdge": 74,
+          "topEdge": 472,
+          "columnSpan": 1,
+          "columnOffset": 2,
+          "staticOffset": 0,
+          "columnOffsetSum": 2
+        },
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "372b99e70c92c28393a2d37fd10649d7c9a1fe4bea72c8036951a06009460061",
+                "originalPosition": [
+                  126,
+                  474,
+                  256,
+                  498
+                ],
+                "width": 130,
+                "height": 24,
+                "objClass": "label"
+              }
+            ]
+          ],
+          "originalWidth": 130,
+          "originalHeight": 24,
+          "leftEdge": 126,
+          "topEdge": 474,
+          "columnSpan": 4,
+          "columnOffset": 0,
+          "staticOffset": 0,
+          "columnOffsetSum": 3
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "9f6e207075c022480efe55709c94a376ef8aed68fc242498075205bdd8b173e4",
+                "originalPosition": [
+                  74,
+                  527,
+                  334,
+                  695
+                ],
+                "width": 260,
+                "height": 168,
+                "objClass": "textarea"
+              }
+            ]
+          ],
+          "originalWidth": 260,
+          "originalHeight": 168,
+          "leftEdge": 74,
+          "topEdge": 527,
+          "columnSpan": 8,
+          "columnOffset": 2,
+          "staticOffset": 0,
+          "columnOffsetSum": 2
+        }
+      ]
+    }
+  ],
+  "classificationMethod": "SKETCH_DEEP_NET"
+}

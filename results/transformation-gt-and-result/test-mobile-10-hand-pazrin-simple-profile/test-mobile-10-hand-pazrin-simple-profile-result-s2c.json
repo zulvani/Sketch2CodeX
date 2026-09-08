@@ -1,0 +1,92 @@
+{
+  "uiWidth": 396,
+  "uiHeight": 302,
+  "gridTemplateColumnWidth": 33,
+  "rows": [
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "eaae4d2bff068c8d52958a90932ac12b83d9e73a1602eb31001153095a7bd6f6",
+                "originalPosition": [
+                  17,
+                  73,
+                  193,
+                  233
+                ],
+                "width": 176,
+                "height": 160,
+                "objClass": "image-card"
+              }
+            ]
+          ],
+          "originalWidth": 176,
+          "originalHeight": 160,
+          "leftEdge": 17,
+          "topEdge": 73,
+          "columnSpan": 5,
+          "columnOffset": 0,
+          "staticOffset": 0,
+          "columnOffsetSum": 0
+        },
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "1881ed85995d3a732229e51a89bf3195437e878d18ff96789427591e049a8099",
+                "originalPosition": [
+                  221,
+                  81,
+                  351,
+                  105
+                ],
+                "width": 130,
+                "height": 24,
+                "objClass": "label"
+              }
+            ],
+            [
+              {
+                "id": "e4a26d031ed0161b79085c933c5760a908af66a72e2748d6244fafbe306ae745",
+                "originalPosition": [
+                  219,
+                  117,
+                  351,
+                  144
+                ],
+                "width": 132,
+                "height": 27,
+                "objClass": "label"
+              }
+            ],
+            [
+              {
+                "id": "638ed68fed443898a41a8b65ce1b4e6b8db8a35139057a651f17a3c4296e4ae5",
+                "originalPosition": [
+                  228,
+                  195,
+                  367,
+                  220
+                ],
+                "width": 139,
+                "height": 25,
+                "objClass": "label"
+              }
+            ]
+          ],
+          "originalWidth": 139,
+          "originalHeight": 27,
+          "leftEdge": 219,
+          "topEdge": 195,
+          "columnSpan": 4,
+          "columnOffset": 1,
+          "staticOffset": 0,
+          "columnOffsetSum": 6
+        }
+      ]
+    }
+  ],
+  "classificationMethod": "SKETCH_2_CODEX"
+}

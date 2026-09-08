@@ -1,0 +1,89 @@
+{
+  "uiWidth": 396,
+  "uiHeight": 676,
+  "gridTemplateColumnWidth": 33,
+  "rows": [
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "44900bb9354c48928817ee412209f4e006d9726bd4fcc82a65a41976c0f55235",
+                "originalPosition": [
+                  34,
+                  78,
+                  139,
+                  201
+                ],
+                "width": 105,
+                "height": 123,
+                "objClass": "image-card"
+              }
+            ]
+          ],
+          "originalWidth": 105,
+          "originalHeight": 123,
+          "leftEdge": 34,
+          "topEdge": 78,
+          "columnSpan": 3,
+          "columnOffset": 1,
+          "columnOffsetSum": 1
+        },
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "e111fa43f74b492ad455aa25389a01435bcc68da658e70f8cde18df7a04d4041",
+                "originalPosition": [
+                  174,
+                  91,
+                  299,
+                  102
+                ],
+                "width": 125,
+                "height": 11,
+                "objClass": "label"
+              }
+            ],
+            [
+              {
+                "id": "63b922d0d89ba884cc673434b4e52cf0942788578f26dc0a6db83d9cb7d7c4a1",
+                "originalPosition": [
+                  174,
+                  119,
+                  299,
+                  129
+                ],
+                "width": 125,
+                "height": 10,
+                "objClass": "label"
+              }
+            ],
+            [
+              {
+                "id": "6782c8ac82a84eb0f144b7280aa1bb81bc85f7a3a76584f0f3c3695e91cb5727",
+                "originalPosition": [
+                  174,
+                  149,
+                  301,
+                  163
+                ],
+                "width": 127,
+                "height": 14,
+                "objClass": "label"
+              }
+            ]
+          ],
+          "originalWidth": 127,
+          "originalHeight": 14,
+          "leftEdge": 174,
+          "topEdge": 149,
+          "columnSpan": 4,
+          "columnOffset": 1,
+          "columnOffsetSum": 5
+        }
+      ]
+    }
+  ]
+}

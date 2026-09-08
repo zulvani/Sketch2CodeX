@@ -1,0 +1,92 @@
+{
+  "uiWidth": 396,
+  "uiHeight": 251,
+  "gridTemplateColumnWidth": 33,
+  "rows": [
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "2472df40363ba74bd61ab0dc43344c55040e18e294c38774f0af759f1d4b4b81",
+                "originalPosition": [
+                  36,
+                  55,
+                  181,
+                  188
+                ],
+                "width": 145,
+                "height": 133,
+                "objClass": "image-card"
+              }
+            ]
+          ],
+          "originalWidth": 145,
+          "originalHeight": 133,
+          "leftEdge": 36,
+          "topEdge": 55,
+          "columnSpan": 4,
+          "columnOffset": 1,
+          "staticOffset": 0,
+          "columnOffsetSum": 1
+        },
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "8478a83a75bef3837586879375d4257a9302188e42cdd9c0f036902026c529d2",
+                "originalPosition": [
+                  208,
+                  63,
+                  343,
+                  94
+                ],
+                "width": 135,
+                "height": 31,
+                "objClass": "label"
+              }
+            ],
+            [
+              {
+                "id": "95c7f34b81035e12c737287107c6e1722bb23fa1e798d1b1133b4fd31ff26a7d",
+                "originalPosition": [
+                  208,
+                  109,
+                  339,
+                  138
+                ],
+                "width": 131,
+                "height": 29,
+                "objClass": "label"
+              }
+            ],
+            [
+              {
+                "id": "832ae36d3f54c68cc90f0269f2d27d31b99caf227b38e8981e3cfe62012a11f2",
+                "originalPosition": [
+                  211,
+                  148,
+                  340,
+                  173
+                ],
+                "width": 129,
+                "height": 25,
+                "objClass": "label"
+              }
+            ]
+          ],
+          "originalWidth": 135,
+          "originalHeight": 31,
+          "leftEdge": 208,
+          "topEdge": 148,
+          "columnSpan": 4,
+          "columnOffset": 1,
+          "staticOffset": 0,
+          "columnOffsetSum": 6
+        }
+      ]
+    }
+  ],
+  "classificationMethod": "YOLOV3"
+}

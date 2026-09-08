@@ -1,0 +1,98 @@
+{
+  "uiWidth": 396,
+  "uiHeight": 850,
+  "gridTemplateColumnWidth": 33,
+  "rows": [
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "dfc407aca0fad0f394bd08221b6de3ffa349c2b9569dbba92c4eeaf76f8c559d",
+                "originalPosition": [
+                  4,
+                  1,
+                  392,
+                  47
+                ],
+                "width": 388,
+                "height": 46,
+                "objClass": "input-free-text"
+              }
+            ]
+          ],
+          "originalWidth": 388,
+          "originalHeight": 46,
+          "leftEdge": 4,
+          "topEdge": 1,
+          "columnSpan": 12,
+          "columnOffset": 0,
+          "staticOffset": 0,
+          "columnOffsetSum": 0
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "8032e27e172e4c598ca7da8990922c223fabfc06ab747989164a482ed062a9ff",
+                "originalPosition": [
+                  4,
+                  49,
+                  392,
+                  155
+                ],
+                "width": 388,
+                "height": 106,
+                "objClass": "key-value"
+              }
+            ]
+          ],
+          "originalWidth": 388,
+          "originalHeight": 106,
+          "leftEdge": 4,
+          "topEdge": 49,
+          "columnSpan": 12,
+          "columnOffset": 0,
+          "staticOffset": 0,
+          "columnOffsetSum": 0
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "925097273b9005884b2b13fb80e875c1125b6175e29213c8c4f7b76df3e91736",
+                "originalPosition": [
+                  4,
+                  265,
+                  392,
+                  306
+                ],
+                "width": 388,
+                "height": 41,
+                "objClass": "segmented-button"
+              }
+            ]
+          ],
+          "originalWidth": 388,
+          "originalHeight": 41,
+          "leftEdge": 4,
+          "topEdge": 265,
+          "columnSpan": 12,
+          "columnOffset": 0,
+          "staticOffset": 0,
+          "columnOffsetSum": 0
+        }
+      ]
+    }
+  ],
+  "classificationMethod": "SKETCH_2_CODEX"
+}

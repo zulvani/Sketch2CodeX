@@ -1,0 +1,68 @@
+{
+  "uiWidth": 396,
+  "uiHeight": 850,
+  "gridTemplateColumnWidth": 33,
+  "rows": [
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "b90e1c2485c4570c1f06bc48c0bd0377ab1b1c26e196882c44c0a92368e2ddca",
+                "originalPosition": [
+                  70,
+                  145,
+                  326,
+                  231
+                ],
+                "width": 256,
+                "height": 86,
+                "objClass": "image-card"
+              }
+            ]
+          ],
+          "originalWidth": 256,
+          "originalHeight": 86,
+          "leftEdge": 70,
+          "topEdge": 145,
+          "columnSpan": 8,
+          "columnOffset": 2,
+          "staticOffset": 0,
+          "columnOffsetSum": 2
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "6cce6d21a688323bbf000a8aa720872ff9c58bce6d375c94ad03f84e48c6702d",
+                "originalPosition": [
+                  137,
+                  289,
+                  260,
+                  307
+                ],
+                "width": 123,
+                "height": 18,
+                "objClass": "label"
+              }
+            ]
+          ],
+          "originalWidth": 123,
+          "originalHeight": 18,
+          "leftEdge": 137,
+          "topEdge": 289,
+          "columnSpan": 4,
+          "columnOffset": 4,
+          "staticOffset": 0,
+          "columnOffsetSum": 4
+        }
+      ]
+    }
+  ],
+  "classificationMethod": "SKETCH_2_CODEX"
+}

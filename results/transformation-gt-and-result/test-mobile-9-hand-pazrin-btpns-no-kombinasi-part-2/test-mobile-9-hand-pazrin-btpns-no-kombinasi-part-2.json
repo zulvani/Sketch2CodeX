@@ -1,0 +1,418 @@
+{
+  "uiWidth": 396,
+  "uiHeight": 951,
+  "gridTemplateColumnWidth": 33,
+  "rows": [
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "d0e1235448d0847fbe378fd206d09b562ccb127f7eee9a2e70df2c5a80aa3dbc",
+                "originalPosition": [
+                  8,
+                  18,
+                  384,
+                  109
+                ],
+                "width": 376,
+                "height": 91,
+                "objClass": "alert"
+              }
+            ]
+          ],
+          "originalWidth": 376,
+          "originalHeight": 91,
+          "leftEdge": 8,
+          "topEdge": 18,
+          "columnSpan": 11,
+          "columnOffset": 0,
+          "columnOffsetSum": 0
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "bed5f25ab415e2cdd8d2f31bb02c6f2403d9f3a7a6eb4c1f2b504b7dc6da7d5b",
+                "originalPosition": [
+                  8,
+                  127,
+                  389,
+                  261
+                ],
+                "width": 381,
+                "height": 134,
+                "objClass": "key-value"
+              }
+            ]
+          ],
+          "originalWidth": 381,
+          "originalHeight": 134,
+          "leftEdge": 8,
+          "topEdge": 127,
+          "columnSpan": 11,
+          "columnOffset": 0,
+          "columnOffsetSum": 0
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "f15b4847b7f83b5f9443f61882d26d8a162392ea5777566f401b55cba0831449",
+                "originalPosition": [
+                  12,
+                  309,
+                  103,
+                  338
+                ],
+                "width": 91,
+                "height": 29,
+                "objClass": "label"
+              }
+            ]
+          ],
+          "originalWidth": 91,
+          "originalHeight": 29,
+          "leftEdge": 12,
+          "topEdge": 309,
+          "columnSpan": 3,
+          "columnOffset": 0,
+          "columnOffsetSum": 0
+        },
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "98a748753094584014c21f0dedf8c72cc0ea4b90ceffb433210a9140786fff91",
+                "originalPosition": [
+                  114,
+                  292,
+                  285,
+                  361
+                ],
+                "width": 171,
+                "height": 69,
+                "objClass": "date-picker"
+              }
+            ]
+          ],
+          "originalWidth": 171,
+          "originalHeight": 69,
+          "leftEdge": 114,
+          "topEdge": 292,
+          "columnSpan": 5,
+          "columnOffset": 0,
+          "columnOffsetSum": 3
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "14a2cdf6dd46ecde6f5f134fd415973a756daa7e31cc4649428905faa4156cb7",
+                "originalPosition": [
+                  13,
+                  396,
+                  94,
+                  420
+                ],
+                "width": 81,
+                "height": 24,
+                "objClass": "label"
+              }
+            ]
+          ],
+          "originalWidth": 81,
+          "originalHeight": 24,
+          "leftEdge": 13,
+          "topEdge": 396,
+          "columnSpan": 3,
+          "columnOffset": 0,
+          "columnOffsetSum": 0
+        },
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "0cb985d58059aeb814b4f7503030802fcf638429cc7f084ca596c7309e3ae417",
+                "originalPosition": [
+                  113,
+                  388,
+                  368,
+                  442
+                ],
+                "width": 255,
+                "height": 54,
+                "objClass": "input-free-text"
+              }
+            ]
+          ],
+          "originalWidth": 255,
+          "originalHeight": 54,
+          "leftEdge": 113,
+          "topEdge": 388,
+          "columnSpan": 8,
+          "columnOffset": 0,
+          "columnOffsetSum": 3
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "e2e97cd5f4cb23e4a922c5281add4b2b6e0140d74f556401fc33fc1e2124b13d",
+                "originalPosition": [
+                  9,
+                  473,
+                  82,
+                  501
+                ],
+                "width": 73,
+                "height": 28,
+                "objClass": "label"
+              }
+            ]
+          ],
+          "originalWidth": 73,
+          "originalHeight": 28,
+          "leftEdge": 9,
+          "topEdge": 473,
+          "columnSpan": 3,
+          "columnOffset": 0,
+          "columnOffsetSum": 0
+        },
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "f2fa1961b8811edadd51a4d664005e2a3454ddc100c0c6b8753351c4bcc677a8",
+                "originalPosition": [
+                  103,
+                  469,
+                  366,
+                  525
+                ],
+                "width": 263,
+                "height": 56,
+                "objClass": "input-password"
+              }
+            ]
+          ],
+          "originalWidth": 263,
+          "originalHeight": 56,
+          "leftEdge": 103,
+          "topEdge": 469,
+          "columnSpan": 8,
+          "columnOffset": 0,
+          "columnOffsetSum": 3
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "747ae2ce340e5e6d5ad0307241892d219be3c380c344fcfc312ca07bb50e4bba",
+                "originalPosition": [
+                  9,
+                  566,
+                  75,
+                  592
+                ],
+                "width": 66,
+                "height": 26,
+                "objClass": "label"
+              }
+            ]
+          ],
+          "originalWidth": 66,
+          "originalHeight": 26,
+          "leftEdge": 9,
+          "topEdge": 566,
+          "columnSpan": 3,
+          "columnOffset": 0,
+          "columnOffsetSum": 0
+        },
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "9a8221ef8558f1a0a42c80d63cc1a47205d2ae95416a513f301fc6fb096f089d",
+                "originalPosition": [
+                  106,
+                  554,
+                  360,
+                  622
+                ],
+                "width": 254,
+                "height": 68,
+                "objClass": "input-password"
+              }
+            ]
+          ],
+          "originalWidth": 254,
+          "originalHeight": 68,
+          "leftEdge": 106,
+          "topEdge": 554,
+          "columnSpan": 8,
+          "columnOffset": 0,
+          "columnOffsetSum": 3
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "a4e4737ff46c8b015783b92dfd4d1829f37a928e55e0aa96826fdb336ac428cb",
+                "originalPosition": [
+                  8,
+                  653,
+                  75,
+                  680
+                ],
+                "width": 67,
+                "height": 27,
+                "objClass": "label"
+              }
+            ]
+          ],
+          "originalWidth": 67,
+          "originalHeight": 27,
+          "leftEdge": 8,
+          "topEdge": 653,
+          "columnSpan": 3,
+          "columnOffset": 0,
+          "columnOffsetSum": 0
+        },
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "0396fdd86618037aca042b9698c3cbc2740beeff63fc667d2b40d3870a13ee03",
+                "originalPosition": [
+                  99,
+                  644,
+                  368,
+                  708
+                ],
+                "width": 269,
+                "height": 64,
+                "objClass": "input-password"
+              }
+            ]
+          ],
+          "originalWidth": 269,
+          "originalHeight": 64,
+          "leftEdge": 99,
+          "topEdge": 644,
+          "columnSpan": 8,
+          "columnOffset": 0,
+          "columnOffsetSum": 3
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "8df7418af5e2d153468fd7745065b858441eff777180d7c097750c7434326ad1",
+                "originalPosition": [
+                  93,
+                  750,
+                  213,
+                  809
+                ],
+                "width": 120,
+                "height": 59,
+                "objClass": "common-button"
+              }
+            ]
+          ],
+          "originalWidth": 120,
+          "originalHeight": 59,
+          "leftEdge": 93,
+          "topEdge": 750,
+          "columnSpan": 4,
+          "columnOffset": 3,
+          "columnOffsetSum": 2
+        },
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "160cc9c9304db8f5baced583d3a7215c705c05e73d364a42c785bea7ca4a2de4",
+                "originalPosition": [
+                  224,
+                  753,
+                  357,
+                  810
+                ],
+                "width": 133,
+                "height": 57,
+                "objClass": "common-button"
+              }
+            ]
+          ],
+          "originalWidth": 133,
+          "originalHeight": 57,
+          "leftEdge": 224,
+          "topEdge": 753,
+          "columnSpan": 4,
+          "columnOffset": 0,
+          "columnOffsetSum": 6
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "7578813d333be468d57055841143afb50ace7ba36abac1d8ef554edfb4c355c7",
+                "originalPosition": [
+                  87,
+                  827,
+                  362,
+                  904
+                ],
+                "width": 275,
+                "height": 77,
+                "objClass": "hyperlink"
+              }
+            ]
+          ],
+          "originalWidth": 275,
+          "originalHeight": 77,
+          "leftEdge": 87,
+          "topEdge": 827,
+          "columnSpan": 8,
+          "columnOffset": 3,
+          "columnOffsetSum": 2
+        }
+      ]
+    }
+  ]
+}

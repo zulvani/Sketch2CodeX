@@ -1,0 +1,68 @@
+{
+  "uiWidth": 420,
+  "uiHeight": 908,
+  "gridTemplateColumnWidth": 35,
+  "rows": [
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "986f8ecd3f959bc83d7134386da8ca745d1bfed1b23ce0fcff70149ffc14665a",
+                "originalPosition": [
+                  146,
+                  247,
+                  310,
+                  415
+                ],
+                "width": 164,
+                "height": 168,
+                "objClass": "image"
+              }
+            ]
+          ],
+          "originalWidth": 164,
+          "originalHeight": 168,
+          "leftEdge": 146,
+          "topEdge": 247,
+          "columnSpan": 5,
+          "columnOffset": 4,
+          "staticOffset": 0,
+          "columnOffsetSum": 4
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "5e9122079a15a6b3e2b56931fb0f7b2aa5a0403025b162c8043df7135a089645",
+                "originalPosition": [
+                  139,
+                  480,
+                  303,
+                  532
+                ],
+                "width": 164,
+                "height": 52,
+                "objClass": "label"
+              }
+            ]
+          ],
+          "originalWidth": 164,
+          "originalHeight": 52,
+          "leftEdge": 139,
+          "topEdge": 480,
+          "columnSpan": 5,
+          "columnOffset": 4,
+          "staticOffset": 0,
+          "columnOffsetSum": 4
+        }
+      ]
+    }
+  ],
+  "classificationMethod": "SKETCH_DEEP_NET"
+}

@@ -1,0 +1,68 @@
+{
+  "uiWidth": 396,
+  "uiHeight": 415,
+  "gridTemplateColumnWidth": 33,
+  "rows": [
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "28380efc45c3e1561cf1b286f49c79cb3284a70771a5d25083c83996c29039f2",
+                "originalPosition": [
+                  104,
+                  73,
+                  306,
+                  212
+                ],
+                "width": 202,
+                "height": 139,
+                "objClass": "image"
+              }
+            ]
+          ],
+          "originalWidth": 202,
+          "originalHeight": 139,
+          "leftEdge": 104,
+          "topEdge": 73,
+          "columnSpan": 6,
+          "columnOffset": 3,
+          "staticOffset": 0,
+          "columnOffsetSum": 3
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "6cd922e445338d6b8a76f8e64e37ef849aba0d7fa1271aa93b335899d7a2765f",
+                "originalPosition": [
+                  115,
+                  239,
+                  297,
+                  260
+                ],
+                "width": 182,
+                "height": 21,
+                "objClass": "label"
+              }
+            ]
+          ],
+          "originalWidth": 182,
+          "originalHeight": 21,
+          "leftEdge": 115,
+          "topEdge": 239,
+          "columnSpan": 5,
+          "columnOffset": 3,
+          "staticOffset": 0,
+          "columnOffsetSum": 3
+        }
+      ]
+    }
+  ],
+  "classificationMethod": "SKETCH_2_CODEX"
+}

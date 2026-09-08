@@ -1,0 +1,68 @@
+{
+  "uiWidth": 396,
+  "uiHeight": 880,
+  "gridTemplateColumnWidth": 33,
+  "rows": [
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "eec8bb2454f6e18c0dad3bed2408830d518e3ecc3074bf9f0e60bfe39874f12f",
+                "originalPosition": [
+                  77,
+                  179,
+                  339,
+                  356
+                ],
+                "width": 262,
+                "height": 177,
+                "objClass": "icon-button"
+              }
+            ]
+          ],
+          "originalWidth": 262,
+          "originalHeight": 177,
+          "leftEdge": 77,
+          "topEdge": 179,
+          "columnSpan": 8,
+          "columnOffset": 2,
+          "staticOffset": 0,
+          "columnOffsetSum": 2
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "segmentedElements": [
+            [
+              {
+                "id": "a83f6722221357af066f1d5e8e595c6b3a91d1d8fd7d12792306f99a2de2064a",
+                "originalPosition": [
+                  145,
+                  390,
+                  273,
+                  405
+                ],
+                "width": 128,
+                "height": 15,
+                "objClass": "label"
+              }
+            ]
+          ],
+          "originalWidth": 128,
+          "originalHeight": 15,
+          "leftEdge": 145,
+          "topEdge": 390,
+          "columnSpan": 4,
+          "columnOffset": 4,
+          "staticOffset": 0,
+          "columnOffsetSum": 4
+        }
+      ]
+    }
+  ],
+  "classificationMethod": "YOLOV3"
+}
